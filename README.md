@@ -7,10 +7,23 @@ This repository contains the code developed for an assignment for the subject 'S
 The following animations were created with Blender with Python Scripting (click to see video):
 <!-- [![Watch the video](http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg)](https://www.youtube.com/watch?v=-zpFEkMD9Mg "Click to Watch!") -->
 
-<a href="https://www.youtube.com/watch?v=-zpFEkMD9Mg" title="Click to Watch!">
-  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="180" height="180"/>
+
+<a href="https://www.youtube.com/watch?v=UCR47K5t5VM" title="Click to Watch!">
+  <img src="http://img.youtube.com/vi/UCR47K5t5VM/0.jpg" alt="Watch the video" width="320" height="180"/>
 </a>
 
+<a href="https://www.youtube.com/watch?v=UCR47K5t5VM" title="Click to Watch!">
+  <img src="http://img.youtube.com/vi/UCR47K5t5VM/0.jpg" alt="Watch the video" width="320" height="180"/>
+</a>
+
+
+<a href="https://www.youtube.com/watch?v=Ufeo-skLUqQ&ab_channel=PeRossello" title="Click to Watch!">
+  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="270" height="180"/>
+</a>
+
+<a href="https://www.youtube.com/watch?v=-zpFEkMD9Mg" title="Click to Watch!">
+  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="270" height="180"/>
+</a>
 
 ## Structure
 
