@@ -5,10 +5,10 @@ This repository contains the code developed for an assignment for the subject 'S
 ## Renders from simulation runs
 
 The following animations were created with Blender with Python Scripting (click to see video):
-[![Watch the video](http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg)](https://www.youtube.com/watch?v=-zpFEkMD9Mg "Click to Watch!")
+<!-- [![Watch the video](http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg)](https://www.youtube.com/watch?v=-zpFEkMD9Mg "Click to Watch!") -->
 
 <a href="https://www.youtube.com/watch?v=-zpFEkMD9Mg" title="Click to Watch!">
-  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="320" height="180"/>
+  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="270" height="180"/>
 </a>
 
 
