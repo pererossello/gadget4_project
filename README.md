@@ -20,14 +20,14 @@ The following animations were created with Blender with Python Scripting (click 
 
 
 <a href="https://www.youtube.com/watch?v=Ufeo-skLUqQ" title="Galaxy Cluster">
-  <img src="http://img.youtube.com/vi/Ufeo-skLUqQ/0.jpg" alt="Watch the video" width="180" height="129"/>
+  <img src="http://img.youtube.com/vi/Ufeo-skLUqQ/0.jpg" alt="Watch the video" width="180" height="120"/>
 </a>
 
 <a href="https://www.youtube.com/watch?v=-zpFEkMD9Mg" title="Cosmological Cube">
-  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="180" height="129"/>
+  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="180" height="120"/>
 </a>
 
-## Structure
+<!-- ## Structure
 
 - `main.py`: Class with methods to generate the spectrogram.
 - `plot_utils.py`: Utility functions for plotting.
@@ -35,4 +35,4 @@ The following animations were created with Blender with Python Scripting (click 
 - `example.ipynb`: Notebook with various examples for image and video generation. 
 - `example_dimensions_finetune.ipynb`: Specific example for those who want to save the image with a specific ratio and pixel dimensions (e.g., for printing).
 - `data/`: Some data for musical scales.
-- `songs/`: Example songs.
+- `songs/`: Example songs. -->
