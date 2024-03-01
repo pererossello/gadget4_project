@@ -13,18 +13,18 @@ The following animations were created with Blender with Python Scripting (click 
 </a>
 
 <a href="https://www.youtube.com/watch?v=mHMzycROyaA" title="Uniform DM SPhere Collapse">
-  <img src="http://img.youtube.com/vi/mHMzycROyaA/0.jpg" alt="Watch the video" width="240" height="180"/>
+  <img src="http://img.youtube.com/vi/mHMzycROyaA/0.jpg" alt="Watch the video" width="180" height="120"/>
 </a>
 
  <!--new line -->
 
 
 <a href="https://www.youtube.com/watch?v=Ufeo-skLUqQ" title="Galaxy Cluster">
-  <img src="http://img.youtube.com/vi/Ufeo-skLUqQ/0.jpg" alt="Watch the video" width="320" height="180"/>
+  <img src="http://img.youtube.com/vi/Ufeo-skLUqQ/0.jpg" alt="Watch the video" width="180" height="129"/>
 </a>
 
 <a href="https://www.youtube.com/watch?v=-zpFEkMD9Mg" title="Cosmological Cube">
-  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="270" height="180"/>
+  <img src="http://img.youtube.com/vi/-zpFEkMD9Mg/0.jpg" alt="Watch the video" width="180" height="129"/>
 </a>
 
 ## Structure
